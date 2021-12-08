@@ -3,6 +3,7 @@ import pandas as pd
 from glob import glob
 from tqdm import tqdm
 # https://www.kaggle.com/haithemhermessi/sanad-dataset
+# This python code loads the SANAD dataset in tabular form
 
 MAIN_PATH = 'SANAD'
 
